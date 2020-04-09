@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+# Site settings
+title: Haema Nilakanta Personal Website
+subtitle: "My personal webpage"
+url: "https://HaemaNilakanta.github.io" # the base hostname & protocol for your site
+# baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
+baseurl: "/"
