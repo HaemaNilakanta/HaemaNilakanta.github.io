@@ -1,7 +1,7 @@
 # Hello and welcome to my website!
 My name is Haema Nilakanta (pronounced: "hey-ma" "kneel-uh-kan-ta"). I'm a statistican and currently a Lead AI Scientist at Target Corporation. I completed my PhD in statistics at the [University of Minnesota School of Statistics](http://www.stat.umn.edu) under [Dr. Galin Jones](http://users.stat.umn.edu/~galin/).
 
-![A picture of me that looks semi-professional](https://github.com/HaemaNilakanta/HaemaNilakanta.github.io/blob/master/headshot1.jpg)
+![pictureforwebsite](headshot1.jpg)*A picture of me that looks semi-professional*
 
 # Research Interests
 My research focus is on output analysis of Monte Carlo methods with applications to estimating network properties and approximating functions. I am also more broadly interested in statistical computing methods, error quantification, and its applications to public health and population sciences. 
