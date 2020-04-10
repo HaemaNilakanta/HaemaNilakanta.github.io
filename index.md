@@ -1,5 +1,5 @@
 # Hello and welcome to my website!
-My name is Haema Nilakanta (pronounced: "hey-ma" "kneel-uh-kan-ta"). I'm a statistican and currently a Lead AI Scientist at Target Corporation HQ. I completed my PhD in statistics at the [University of Minnesota's School of Statistics](http://www.stat.umn.edu) under [Dr. Galin Jones](http://users.stat.umn.edu/~galin/).
+My name is Haema Nilakanta (pronounced: "hey-ma" "kneel-uh-kan-ta"). I'm a statistician and currently a Lead AI Scientist at Target Corporation HQ. I completed my PhD in statistics at the [University of Minnesota's School of Statistics](http://www.stat.umn.edu) under [Dr. Galin Jones](http://users.stat.umn.edu/~galin/).
 
 ->![pictureforwebsite](headshot1.jpg)
 *A picture of me that looks semi-professional*<-
@@ -7,7 +7,7 @@ My name is Haema Nilakanta (pronounced: "hey-ma" "kneel-uh-kan-ta"). I'm a stati
 # Research Interests
 My research focus is in output analysis of Monte Carlo methods with applications in estimating network properties and approximating functions. I am also more broadly interested in statistical computing methods, error quantification, and its applications to public health and population sciences. 
 
-I also have interests in demand forecasting, applied Bayesian methodolgy, and recommender systems. 
+I also have interests in demand forecasting, applied Bayesian methodology, and recommender systems. 
 
 # Professional Resources
 * My CV
@@ -27,7 +27,7 @@ I also have interests in demand forecasting, applied Bayesian methodolgy, and re
 * Ph.D., Statistics, University of Minnesota - Twin Cities, 2020
 * M.S., Statistics, University of Minnesota - Twin Cities, 2018
 * Masters Program in Biostatistics (left for full-time PhD), George Washington University, 2012
-* B.S., Mathematics Magna Cum Laude, Iowa State University, 2011
+* B.S., Mathematics *Magna Cum Laude*, Iowa State University, 2011
 
 
 # Contact
