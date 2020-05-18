@@ -1,5 +1,5 @@
 # Hello and welcome to my website!
-My name is Haema Nilakanta (pronounced: "hey-ma" "kneel-uh-kan-ta"). I'm a statistician and currently a Lead AI Scientist at Target Corporation HQ. I completed my PhD in statistics at the [University of Minnesota's School of Statistics](http://www.stat.umn.edu) under [Dr. Galin Jones](http://users.stat.umn.edu/~galin/).
+My name is Haema Nilakanta (pronounced: "hey-ma" "kneel-uh-kan-ta"). I'm a statistician and currently a Lead AI Scientist at Target Corporation HQ. I completed my PhD in statistics at the [University of Minnesota's School of Statistics](http://www.stat.umn.edu) under [Dr. Galin Jones](http://users.stat.umn.edu/~galin/). My dissertation was on: Output Analysis of Monte Carlo Methods with Applications to Networks and Functional Approximation.
 
 <p align="center">
   <img src="headshot1.jpg"></p>
@@ -27,7 +27,7 @@ I also have interests in demand forecasting, applied Bayesian methodology, and r
 * ["An Introduction to Developing R Packages"](http://cknudson.com/presentations) presentation materials from the 2017 [ASA Women in Statistics and Data Science](https://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx) conference with co-authors [Christina Knudson, PhD](https://cknudson.com)  and [Lindsey R. Dietz, PhD](https://www.linkedin.com/in/lindseydietz).
 
 # Publications 
-* **Nilakanta, H.** and Jones, G.L. Research Methods Foundation Project: Monte Carlo Simulation. Sage. Preprint
+* **Nilakanta, H.** and Jones, G.L. *Monte Carlo Simulation*. InResearch Methods Foundation Project. Sage. Accepted.
 
 * **Nilakanta, H.**, Almquist, Z.W., and Jones, G.L. [Ensuring Reliable Monte Carlo Estimates of Network Properties](https://arxiv.org/abs/1911.08682), Submitted
 
