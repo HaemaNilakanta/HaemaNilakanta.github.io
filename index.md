@@ -2,9 +2,10 @@
 My name is Haema Nilakanta (pronounced: "hey-ma" "kneel-uh-kan-ta"). I'm a statistician and currently a Lead AI Scientist at Target Corporation HQ. I completed my PhD in statistics at the [University of Minnesota's School of Statistics](http://www.stat.umn.edu) under [Dr. Galin Jones](http://users.stat.umn.edu/~galin/).
 
 <p align="center">
-  <img src="headshot1.jpg">
-  A picture of me that looks semi-professional
-</p>
+  <img src="headshot1.jpg"></p>
+  
+<p align="center">A picture of me that looks semi-professional</p>
+
 
 <!-- <div id="container">
     <headshot1.jpg>
@@ -45,13 +46,3 @@ I also have interests in demand forecasting, applied Bayesian methodology, and r
 Email: nilak008@umn.edu
 
 LinkedIn: [My LinkedIN profile](www.linkedin.com/in/haema-nilakanta)
-
-#container {
-    height:100px;
-    line-height:100px;
-}
-
-#container img {
-    vertical-align:middle;
-    max-height:100%;
-}
