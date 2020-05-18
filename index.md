@@ -27,7 +27,7 @@ I also have interests in demand forecasting, applied Bayesian methodology, and r
 * ["An Introduction to Developing R Packages"](http://cknudson.com/presentations) presentation materials from the 2017 [ASA Women in Statistics and Data Science](https://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx) conference with co-authors [Christina Knudson, PhD](https://cknudson.com)  and [Lindsey R. Dietz, PhD](https://www.linkedin.com/in/lindseydietz).
 
 # Publications 
-* **Nilakanta, H.** and Jones, G.L. *Monte Carlo Simulation*. InResearch Methods Foundation Project. Sage. Accepted.
+* **Nilakanta, H.** and Jones, G.L. *Monte Carlo Simulation*. In Research Methods Foundation Project. Sage. Accepted.
 
 * **Nilakanta, H.**, Almquist, Z.W., and Jones, G.L. [Ensuring Reliable Monte Carlo Estimates of Network Properties](https://arxiv.org/abs/1911.08682), Submitted
 
