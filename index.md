@@ -20,7 +20,9 @@ My research focus is in output analysis of Monte Carlo methods with applications
 I also have interests in demand forecasting, applied Bayesian methodology, and recommender systems. 
 
 # Professional Resources
-* [My CV](HaemaNilakanta_CVforWeb.pdf)
+* [My CV](HaemaNilakanta_CVforWeb.pdf) and more compact [Resume](HaemaNilakanta_ResumeforWeb.pdf)
+
+* [My public GitHub profile](https://github.com/HaemaNilakanta)
 
 * "Being Bilingual: Coding in Both R and Python" invited conference talk for [noRth 2020](https://rnorthconference.github.io/#contact). A recording of the presentation is [viewable here](https://www.youtube.com/watch?v=KQ7poEIRRTY&list=PL7aOYMht_9VVUFWU5c7HSI3cEg8jG4o_g&index=4&t=0s) with the [talk materials](https://github.com/HaemaNilakanta/north2020_reticulate). 
 
