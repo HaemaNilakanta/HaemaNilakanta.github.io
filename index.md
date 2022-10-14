@@ -1,5 +1,5 @@
 # Hello and welcome to my website!
-My name is Haema Nilakanta (pronounced: "hey-ma" "kneel-uh-kan-ta"). I'm a statistician and currently a Lead Data/AI Scientist at Target Corporation. I completed my PhD in statistics at the [University of Minnesota's School of Statistics](http://www.stat.umn.edu) under [Professor Galin Jones](http://users.stat.umn.edu/~galin/). My dissertation was on: [Output Analysis of Monte Carlo Methods with Applications to Networks and Functional Approximation](https://conservancy.umn.edu/handle/11299/215058).
+My name is Haema Nilakanta (pronounced: "hey-ma" "kneel-uh-kan-ta"). I'm a statistician and currently a Principal Data Scientist at Target Corporation. I completed my PhD in statistics at the [University of Minnesota's School of Statistics](http://www.stat.umn.edu) under [Professor Galin Jones](http://users.stat.umn.edu/~galin/). My dissertation was on: [Output Analysis of Monte Carlo Methods with Applications to Networks and Functional Approximation](https://conservancy.umn.edu/handle/11299/215058).
 
 <p align="center">
   <img src="headshot1.jpg"></p>
@@ -17,7 +17,7 @@ A picture of me that looks semi-professional<- -->
 # Research Interests
 My research focus is in output analysis of Monte Carlo methods with applications in estimating network properties and approximating functions. I am also more broadly interested in statistical computing methods, measuring reliability in computational methods, and its applications to public health and population sciences. 
 
-I also have interests in demand forecasting, applied Bayesian methodology, and recommender systems. 
+I also have interests in forecasting problems, applied Bayesian methodology, causal inference, and recommender systems. 
 
 # Professional Resources
 * [My CV](HaemaNilakanta_CVforWeb.pdf) and more compact [Resume](HaemaNilakanta_ResumeforWeb.pdf)
