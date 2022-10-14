@@ -26,7 +26,7 @@ I also have interests in forecasting problems, applied Bayesian methodology, cau
 
 * "Being Bilingual: Coding in Both R and Python" invited conference talk for [noRth 2020](https://rnorthconference.github.io/#contact). A recording of the presentation is [viewable here](https://www.youtube.com/watch?v=KQ7poEIRRTY&list=PL7aOYMht_9VVUFWU5c7HSI3cEg8jG4o_g&index=4&t=0s) with the [talk materials](https://github.com/HaemaNilakanta/north2020_reticulate). 
 
-* ["Shine with Shiny: An Introduction to R Shiny"](https://drive.google.com/drive/folders/15Vql9_ir3Mmr8DybA105y5Yw1vCqGohF?usp=sharing) workshop materials from the 2019 UMN Day of Data with co-author [Sakshi Arya](https://sites.google.com/a/umn.edu/sakshi-arya/home)
+* ["Shine with Shiny: An Introduction to R Shiny"](https://drive.google.com/drive/folders/15Vql9_ir3Mmr8DybA105y5Yw1vCqGohF?usp=sharing) workshop materials from the 2019 UMN Day of Data with co-author [Sakshi Arya, PhD](https://sites.google.com/a/umn.edu/sakshi-arya/home)
 
 * ["An Introduction to Developing R Packages"](http://cknudson.com/presentations) presentation materials from the 2017 [ASA Women in Statistics and Data Science](https://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx) conference with co-authors [Christina Knudson, PhD](https://cknudson.com) and [Lindsey R. Dietz, PhD](https://www.linkedin.com/in/lindseydietz).
 
