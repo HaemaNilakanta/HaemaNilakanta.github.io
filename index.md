@@ -49,6 +49,6 @@ I also have interests in forecasting problems, applied Bayesian methodology, cau
 
 
 # Contact
-Email: nilak008@umn.edu
+Email: haema.nilakanta@gmail.com
 
 LinkedIn: [My LinkedIN profile](https://www.linkedin.com/in/haema-nilakanta)
